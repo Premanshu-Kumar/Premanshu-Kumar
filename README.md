@@ -5,7 +5,7 @@ Software Developer / Data Enthusiast focused on building scalable applications a
 - 🔭 **Currently working on:** CPU Scheduling algorithms & Predictive ML models
 - 🌱 **Learning:** Cloud Architecture & Full-Stack Development
 - 💬 **Ask me about:** Python, JavaScript, Machine Learning, PowerBI
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-username) • [Portfolio](https://yourportfolio.com)
+- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/premanshukumar) • [Portfolio](https://yourportfolio.com)
 
 ---
 
