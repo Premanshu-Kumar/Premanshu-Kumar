@@ -23,7 +23,7 @@ I build **data-driven applications, machine learning projects, dashboards, and w
 
 * 🎓 B.Tech Computer Science Engineering student
 * 📊 Interested in **Data Science, Machine Learning & Business Analytics**
-* 💻 Building projects using **Python, C++, Java and SQL**
+* 💻 Building projects using **Python,C, C++, Java and SQL**
 * 🧠 Currently improving **DSA, DBMS, Machine Learning & Data Analytics**
 * 📈 Exploring **Power BI and data visualization**
 * 🌱 Learning how to build scalable and practical software solutions
