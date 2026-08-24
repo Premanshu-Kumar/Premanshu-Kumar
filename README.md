@@ -12,8 +12,9 @@ I build **data-driven applications, machine learning projects, dashboards, and w
 </a>
 <a href="https://linkedin.com/in/premanshukumar">
 <img src="https://img.shields.io/badge/LinkedIn-Premanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 <a href="https://premanshu.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Premanshu%20Kumar-8A2BE2?style=for-the-badge&logo=portfolio&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Premanshu%20Kumar-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>
 
