@@ -28,6 +28,8 @@
 
 <br/>
 
+---
+
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science Engineering student
@@ -44,13 +46,13 @@
 
 <div align="center">
 
-**Languages**
+### 👨‍💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
 
 <br/><br/>
 
-**Data Science & AI**
+### 📊 Data Science & AI
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -59,7 +61,7 @@
 
 <br/><br/>
 
-**Development & Tools**
+### ⚙️ Development & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
