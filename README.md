@@ -135,17 +135,23 @@ Machine Learning & Data Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premanshu-Kumar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+### 🚀 My GitHub Journey
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premanshu-Kumar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+| 📦 Public Repositories | ⭐ Projects | 💻 Main Focus |
+|:---:|:---:|:---:|
+| **5** | **Data & AI** | **CSE + Data Science** |
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Premanshu-Kumar&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Premanshu-Kumar">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Premanshu-Kumar?tab=activity">
+  <img src="https://img.shields.io/badge/Activity-View%20Contributions-2ea44f?style=for-the-badge&logo=github" />
+</a>
 
 </div>
-
----
 
 ## 🐍 Contribution Activity
 
