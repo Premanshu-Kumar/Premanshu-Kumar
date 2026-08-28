@@ -1,4 +1,31 @@
 <div align="center">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:06B6D4&height=220&section=header&text=Premanshu%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Power%20BI%20%7C%20Python&descAlignY=52&descSize=20" width="100%"/>
+
+<a href="https://github.com/Premanshu-Kumar">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Machine+Learning+Projects+%F0%9F%A4%96;Python+%2B+SQL+%2B+Power+BI+%2B+Machine+Learning;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Premanshu-Kumar">
+<img src="https://img.shields.io/badge/GitHub-Premanshu--Kumar-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com/in/premanshukumar">
+<img src="https://img.shields.io/badge/LinkedIn-Premanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Premanshu-Kumar&style=for-the-badge&color=1F3864&label=Profile+Views" />
+
+</div>
+
+<br/>
 
 # 👋 Hi, I'm Premanshu Kumar
 
