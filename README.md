@@ -182,13 +182,31 @@ Machine Learning & Data Science
 
 ## 🐍 Contribution Activity
 
+## 🔥 Coding & Contribution Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+### 🟩 GitHub Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+     alt="GitHub Contribution Snake"/>
+
+<br><br>
+
+### 🧩 LeetCode Progress
+
+<a href="https://leetcode.com/u/premanshu_2005/">
+<img src="https://leetcard.jacoblin.cool/premanshu_2005?theme=dark&font=Fira%20Code&ext=heatmap" 
+     alt="Premanshu's LeetCode Stats"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/premanshu_2005/">
+<img src="https://img.shields.io/badge/LeetCode-premanshu__2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
-
----
 
 ## 🎯 2026 Goals
 
