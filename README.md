@@ -195,15 +195,15 @@ Machine Learning & Data Science
 
 ### 🧩 LeetCode Progress
 
-<a href="https://leetcode.com/u/premanshu_2005/">
+<a href="https://leetcode.com/u/premanshuu/">
 <img src="https://leetcard.jacoblin.cool/premanshuu?theme=dark&font=Fira%20Code&ext=heatmap" 
      alt="Premanshu's LeetCode Stats"/>
 </a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/premanshu_2005/">
-<img src="https://img.shields.io/badge/LeetCode-premanshu__2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/premanshuu/">
+<img src="https://img.shields.io/badge/LeetCode-premanshuu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
